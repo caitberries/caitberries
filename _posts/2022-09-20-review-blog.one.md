@@ -7,6 +7,6 @@ This project is based on the second rise of the Ku Klux Klan for how widespread 
 
 ### Assessment of the Humanistic Claims and Evidence
 
-### Assessment of Technology Used
-![the website's pop-up message](https://user-images.githubusercontent.com/112186152/191647980-3a427deb-6cff-4762-af26-ac86d0795569.jpeg)
+### Assessment of Technology Used 
+[the website's pop-up message](https://github.com/caitberries/caitberries/files/9621841/Screen.Shot.2022-09-21.at.10.53.34.PM.zip)
 When entering the website, there is a pop-up message, which contains a description of the project itself and the map’s purpose in creating a visualization of the second Klan spread throughout the US, and gives users have the option to view and explore the map’s timeline of the rise of the second Ku Klux Klan or to navigate to the “Learn More” section, where readers can find the purpose of the project, the timeline and patterns of the second Ku Klux Klan, as well as the limitations of basing the project’s data on documentary evidence, meaning that the project does not provide an exact chronology of the Klan’s rise and fall from power. An in-depth essay is also linked in the “Learn More” section, which gives a thorough summary and timeline of the rise of the Ku Klux Klan, allowing readers to see the influx of recruitment for Klans as they read along with the essay. There are no instructions for how to operate the map itself, but the mechanics of the map are relatively self-explanatory. 

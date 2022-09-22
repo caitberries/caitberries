@@ -1,11 +1,11 @@
-The Project and its Purpose
+###The Project and its Purpose
 
 Mapping the Second Ku Klux Klan, 1915-1940, is an eponymous Digital Humanities project created by the library of Virginia Commonwealth University. It serves as a rough timeline for the rise of the second Ku Klux Klan between 1915 and 1940. The interactive map provided by the website allows users to watch the number of local units, or Klaverns, belonging to the second Ku Klux Klan rise across the United States during the aforementioned time period, represented by a red dot that users can mouse over to learn more information about the chronology of the Klaverns as they pop up across the country, the patterns of Klan organizing and recruitment, and the courageous individuals who resisted and fought against the Klan. 
 
 This project is based on the second rise of the Ku Klux Klan for how widespread it was across the United States, a striking difference to the first and third rise, which were concentrated in the Deep South. This far-reaching nature of the second rise of the Ku Klux Klan was found significant to researchers, as it indicates that parts of the Klan’s appeal, like its use of racism, anti-Semitism, and anti-Catholicism, were widespread across the United States as well. 
 
-Assessment of the Humanistic Claims and Evidence
+###Assessment of the Humanistic Claims and Evidence
 
-Assessment of Technology Used
+###Assessment of Technology Used
 
 When entering the website, there is a pop-up message, which contains a description of the project itself and the map’s purpose in creating a visualization of the second Klan spread throughout the US, and gives users have the option to view and explore the map’s timeline of the rise of the second Ku Klux Klan or to navigate to the “Learn More” section, where readers can find the purpose of the project, the timeline and patterns of the second Ku Klux Klan, as well as the limitations of basing the project’s data on documentary evidence, meaning that the project does not provide an exact chronology of the Klan’s rise and fall from power. An in-depth essay is also linked in the “Learn More” section, which gives a thorough summary and timeline of the rise of the Ku Klux Klan, allowing readers to see the influx of recruitment for Klans as they read along with the essay. There are no instructions for how to operate the map itself, but the mechanics of the map are relatively self-explanatory. 

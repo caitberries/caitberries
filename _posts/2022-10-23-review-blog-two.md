@@ -27,6 +27,9 @@ Regardless, these maps, charts, and tables illustrate Latinx migratory patterns 
 
 While the author’s undertaking of two centuries worth of data is rather impressive and organized, “Mapping the Latinx Great Migrations” is not without usability issues. Both the desktop and mobile versions of the website have issues specifically related to the efficiency of the visualizations created by the author in distributing clear, in-depth information about Latinx migration and the interactive nature of the project’s maps and charts. 
 
+<img width="714" alt="Screen Shot 2022-10-28 at 9 58 55 PM 2" src="https://user-images.githubusercontent.com/112186152/198764421-fbe13d1d-1c77-450f-a3e8-eeb7634d8deb.png">
+<img width="625" alt="Screen Shot 2022-10-28 at 9 58 22 PM 2" src="https://user-images.githubusercontent.com/112186152/198764437-941c5328-62f6-42cf-8848-d592233868d8.png">
+
 For example, on the desktop version, there is a description of the maps and charts and an explanation of their interactive nature; this description invites readers to move decade by decade on the maps by using red buttons located below the description. Unfortunately, if readers load the website in a format that is smaller than full screen, these red buttons are cut off and are no longer accessible to the reader to click through each decade. For someone less familiar with technology than myself (which wouldn’t be hard), this would likely detract from the project’s purpose of spreading historical information about the Latinx migrations, as it took much finagling to figure out how to make the red buttons load in properly. 
 
 <img width="414" alt="IMG_5510 2" src="https://user-images.githubusercontent.com/112186152/198755299-3f8876de-9ffe-4f22-8dbc-8389e2f94205.png">

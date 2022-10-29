@@ -24,4 +24,6 @@ In “Mapping the Latinx Great Migrations,” author James Gregory utilizes six 
 Regardless, these maps, charts, and tables illustrate Latinx migratory patterns and historical data better than if readers were only provided with a chart of numbers and states by decade, as this information is sometimes difficult to visualize for those less mathematically-inclined _(such as myself)_. With the interactive element, which allows readers to more closely examine data organized within the visualizations, there is no need to attempt to decipher hundreds of data sets pertaining to the influx of Latinx populations throughout two centuries worth of history, as readers can scroll their mouse over whatever part of the U.S. you’d like to know about and the differences in population number between national backgrounds and the like can be seen clearly in the larger or smaller bubble size, bar height, or chart size on the maps.
 
 ### Usability Issues
-<img width="414" alt="IMG_5510" src="https://user-images.githubusercontent.com/112186152/198755125-c1d2ac0d-7464-49d6-85dc-34984cd01449.png"> <img width="414" alt="IMG_5511" src="https://user-images.githubusercontent.com/112186152/198755129-fca6a0a5-4633-4067-9edd-0b8a85b98e8d.png">
+<img width="414" alt="IMG_5510 2" src="https://user-images.githubusercontent.com/112186152/198755299-3f8876de-9ffe-4f22-8dbc-8389e2f94205.png">
+
+<img width="414" alt="IMG_5511" src="https://user-images.githubusercontent.com/112186152/198755129-fca6a0a5-4633-4067-9edd-0b8a85b98e8d.png">

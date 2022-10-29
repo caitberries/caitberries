@@ -1,5 +1,11 @@
-# Review Blog 1: Mapping the Second Ku Klux Klan, 1915-1940
+# Review Blog 1
 
+Project:
+Mapping the Second Ku Klux Klan, 1915-1940
+Project Director:
+John Kneebone, Shariq Torres, and others
+Project URL:
+https://labs.library.vcu.edu/klan/ 
 
 ### The Project and its Purpose
 <img width="611" alt="website map with interactive timeline visible" src="https://user-images.githubusercontent.com/112186152/191649770-c5248ecb-d415-4c5b-99b2-ed104cee7dfc.png">

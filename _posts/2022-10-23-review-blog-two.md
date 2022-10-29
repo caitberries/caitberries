@@ -9,7 +9,7 @@ James Gregory
 https://depts.washington.edu/moving1/map_latinx_migration.shtml 
 
 ### Summary of Project
-<img width="640" alt="Screen Shot 2022-10-27 at 2 51 47 PM Large" src="https://user-images.githubusercontent.com/112186152/198754981-bd2ad67a-f585-456a-b0b5-649439300071.png">
+<img width="630" alt="198754981-bd2ad67a-f585-456a-b0b5-649439300071" src="https://user-images.githubusercontent.com/112186152/198765800-820ff627-d096-4e78-b651-27c933525fbb.png">
 
 In my second review blog, I will be reviewing “[Mapping the Latinx Great Migrations](https://depts.washington.edu/moving1/map_latinx_migration.shtml),” created by James Gregory through the Civil Rights and Labor History Consortium at the University of Washington. This particular project, which introduces and analyzes the history of Latinx migration between 1850 and 2017, is a part of a larger project titled, “America’s Great Migrations Project,” which covers Latinx migration, as well as Black and Asian American migration, the Southern Diaspora, and the Dust Bowl migration. “Mapping the Latinx Great Migrations” was created for the purpose of educating readers about the migrational patterns and their correlated causes for migration throughout history, spanning from 1850 all the way to 2017, through a chronological telling of the migratory paths, as well as interactive maps to visualize these paths. The visualization categories included by the project are as follows: Latinx population by state and decade 1850-2017, national backgrounds by state and decade, US born and non-US born by state and decade, born outside US states by decade, and population by decade and national background.
 
